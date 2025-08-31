@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Isabela!
 
-<!--
-**IsaBarbosaaa/IsaBarbosaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Atualmente sou **estudante de Ciência da Computação**, com foco em **Análise de Banco de Dados, Automação e Programação**.  
+💡 Meu objetivo é aplicar tecnologia para criar soluções **eficientes, escaláveis e orientadas por dados**.  
 
-Here are some ideas to get you started:
+## 🔧 Habilidades & Ferramentas
+- **Programação:** Python, SQL, Java (básico), C  
+- **Dados & Visualização:** Power BI, Excel (avançado), Análise de Dados  
+- **Automação:** Power Automate, Otimização de Processos  
+- **Controle de Versão:** Git & GitHub  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projetos em Destaque
+- 📊 **Dashboards em Power BI** – Visualizações de dados para apoiar decisões e monitorar processos.  
+- ⚙️ **Automatização de Processos** – Workflows no Power Automate para otimizar tarefas repetitivas.  
+- 📑 **Planilhas Automatizadas em Excel** – Planilhas avançadas com fórmulas e macros para controle de dados.  
+
+## 🚀 Objetivos
+- Aprofundar meus conhecimentos em **Banco de Dados, Engenharia de Dados e Programação**  
+- Construir um **portfólio sólido de projetos de tecnologia** no GitHub  
+- Contribuir com projetos **open-source** e colaborar com a comunidade de tecnologia  
+
+---
+
+✨ *Sempre aprendendo, programando e desenvolvendo soluções com tecnologia!*  
